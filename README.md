@@ -1,3 +1,5 @@
+🔥 Looking for a project to work on in my spair time. If you need a developer, just contact me!
+
 ### Contacts
 
 Email: vadimgush@protonmail.com  
