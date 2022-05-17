@@ -1,4 +1,10 @@
-### Hi there 👋
+### Contacts
+
+|   |   |
+|---|---|
+| **Email** | mail@vadimgush.com ([GPG key]()) |
+| **Keybase** | @vadimgush |
+| **Twitter** | [@vadimgush](https://twitter.com/vadimgush) |
 
 <!--
 **VadimGush/vadimgush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
