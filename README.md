@@ -2,7 +2,7 @@
 
 |   |   |
 |---|---|
-| **Email** | mail@vadimgush.com ([GPG key]()) |
+| **Email** | mail@vadimgush.com ([GPG key](public.txt)) |
 | **Keybase** | @vadimgush |
 | **Twitter** | [@vadimgush](https://twitter.com/vadimgush) |
 
