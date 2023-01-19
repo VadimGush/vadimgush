@@ -1,3 +1,10 @@
+### Projects
+
+ * [raytracing](https://github.com/vadimgush/raytracing) - My first experience with CUDA. Implementation of a simple raytracer on GPU.
+ * [kazan](https://github.com/gush-labs/kazan) - TypeScript/Vue app that I built to help myself and other people practice Japanese.
+ * [cpp-header](https://github.com/vadimgush/cpp-header) - Python script that I wrote to build C/C++ headers for my projects.
+ * [algorithms](https://github.com/vadimgush/algorithms) - My implementation of different algorithms and data structures in C/C++.
+
 ### Contacts
 
 These are only ways to contact me.  
