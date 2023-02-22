@@ -1,6 +1,7 @@
 ### Projects
+All my projects that I've made:
 
- * [raytracing](https://github.com/vadimgush/raytracing) - Implementation of raytracer on CUDA. Renders scene into PNG image.
+ * [raytracing](https://github.com/vadimgush/raytracing) - Implementation of raytracer on CUDA. Renders scene into a PNG image.
  * [kazan](https://github.com/gush-labs/kazan) - TypeScript/Vue web-app to help people practice Japanese.
  * [cpp-header](https://github.com/vadimgush/cpp-header) - Python script to build one-header libraries for C/C++.
  * [algorithms](https://github.com/vadimgush/algorithms) - Implementation of different algorithms and data structures in C++.
