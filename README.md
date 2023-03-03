@@ -5,7 +5,6 @@ All projects that I've made:
  * [kazan](https://github.com/gush-labs/kazan) - TypeScript/Vue web-app to help people practice Japanese.
  * [cpp-header](https://github.com/vadimgush/cpp-header) - Python script to build one-header libraries for C/C++.
  * [algorithms](https://github.com/vadimgush/algorithms) - Implementation of different algorithms and data structures in C++.
- * [performance](https://github.com/vadimgush/performance) - How performance of your software might be affected by different programming approaches.
 
 ### Contacts
 
