@@ -1,5 +1,4 @@
 ### Projects
-My projects:
 
  * [raytracing](https://github.com/vadimgush/raytracing) - Raytracer written in C++ using CUDA.
  * [kazan](https://github.com/gush-labs/kazan) - TypeScript/VueJS web-app to help practice Japanese.
