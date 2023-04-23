@@ -4,6 +4,7 @@
  * [kazan](https://github.com/gush-labs/kazan) - TypeScript/VueJS web-app to help practice Japanese.
  * [cpp-header](https://github.com/vadimgush/cpp-header) - Python script to build one-header libraries for C/C++.
  * [algorithms](https://github.com/vadimgush/algorithms) - Implementation of algorithms and data structures in C++.
+ * [vm8086](https://github.com/vadimgush/vm8086) - Intel 8086 instruction decoder
 
 ### Contacts
 
