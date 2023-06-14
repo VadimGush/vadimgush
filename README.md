@@ -7,13 +7,12 @@
  * [vm8086](https://github.com/vadimgush/vm8086) - Intel 8086 instruction decoder
  * [benchmarks](https://github.com/vadimgush/benchmarks) - Different benchmarks written in C++
 
+### Articles
+
+ * [Running WireGuard VPN in the Cloud](https://vadimgush.substack.com/p/setting-up-wireguard-vpn-on-virtual)
+
 ### Contacts
 
-These are only ways to contact me.  
-Any other account in any other social network doesn't belong to me.
-
-
 **Email**: char_emblem.0k@icloud.com ([GPG key](public.txt))  
-**Keybase**: [@vadimgush](https://keybase.io/vadimgush)  
 **Twitter**: [@vadimgush](https://twitter.com/vadimgush)  
 **LinkedIn**: [@vadimgush](https://linkedin.com/in/vadimgush)  
