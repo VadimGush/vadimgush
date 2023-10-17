@@ -10,7 +10,7 @@
 ### Articles
  
  * [Introduction to CPU caches](https://vadimgush.substack.com/p/introduction-to-cpu-caches)
- * [Running WireGuard VPN in the Cloud](https://vadimgush.substack.com/p/setting-up-wireguard-vpn-on-virtual)
+ * [Running WireGuard VPN in the cloud](https://vadimgush.substack.com/p/setting-up-wireguard-vpn-on-virtual)
 
 ### Contacts
 
